@@ -55,7 +55,7 @@
     "http-proxy": "^1.18.1",
     "jest": "^24.9.0",
     "jest-environment-jsdom-fourteen": "^0.1.0",
-    "jsdom": "^14.1.0",
+    "jsdom": "^16.5.0",
     "node-fetch": "^2.6.0",
     "on-error-resume-next": "^1.1.0",
     "restify": "^8.4.0",
